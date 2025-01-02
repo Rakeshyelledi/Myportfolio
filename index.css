@@ -580,6 +580,10 @@ form textarea {
     .home-img {
         width: 40%;
     }
+    .home-img img{
+        width: 73%;
+        height: 60vh;
+    }
 }
 
 @media (max-width: 768px) {
